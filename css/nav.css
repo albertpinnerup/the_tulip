@@ -1,5 +1,6 @@
 nav {
     padding-top: 3.6875rem;
+    z-index: 100;
 }
 
 nav li {
@@ -7,7 +8,7 @@ nav li {
 }
 
 nav a {
-    color: #000;
+    color: #fff;
     text-decoration: none;
 }
 
