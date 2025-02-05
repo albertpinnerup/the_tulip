@@ -185,6 +185,48 @@ let data = {
                 stars: 5
             }
         ]
+    },
+    nav: {
+        links: [
+            {
+                linkname: "Home",
+                linkURL: "index.html"
+            },
+            {
+                linkname: "Rooms & Suites",
+                linkURL: "#"
+            },
+            {
+                linkname: "Services",
+                linkURL: "#"
+            },
+            {
+                linkname: "About US",
+                linkURL: "#"
+            },
+            {
+                linkname: "Booking",
+                linkURL: "#"
+            },
+        ],
+        some: [
+            {
+                icon: "fa-brands fa-instagram",
+                linkURL: "https://www.instagram.com/"
+            },
+            {
+                icon: "fa-brands fa-facebook-f",
+                linkURL: "https://www.facebook.com/"
+            },
+            {
+                icon: "fa-brands fa-youtube",
+                linkURL: "https://www.youtube.com/"
+            },
+            {
+                icon: "fa-brands fa-twitter",
+                linkURL: "https://www.x.com/"
+            },
+        ]
     }
 
 }
