@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+    
+}
+
+p {
+	padding-bottom: 1em;
+}
+
+/* RWD: */
+img {
+	width: 100%;
+	height: auto;
+    display: block;
+}
