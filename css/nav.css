@@ -1,3 +1,12 @@
+.header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+
 nav {
     padding-top: 3.6875rem;
     z-index: 100;
@@ -13,7 +22,8 @@ nav a {
 }
 
 
-.menu, .some {
+.menu,
+.some {
     display: flex;
     flex-direction: row;
     align-items: center;
